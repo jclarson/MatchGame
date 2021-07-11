@@ -17,3 +17,22 @@ D:\Repos\Head First\MatchGame\obj\Debug\netcoreapp3.1\MatchGame.csproj.CoreCompi
 D:\Repos\Head First\MatchGame\obj\Debug\netcoreapp3.1\MatchGame.dll
 D:\Repos\Head First\MatchGame\obj\Debug\netcoreapp3.1\MatchGame.pdb
 D:\Repos\Head First\MatchGame\obj\Debug\netcoreapp3.1\MatchGame.genruntimeconfig.cache
+D:\Repos\GitHub\MatchGame\bin\Debug\netcoreapp3.1\MatchGame.exe
+D:\Repos\GitHub\MatchGame\bin\Debug\netcoreapp3.1\MatchGame.deps.json
+D:\Repos\GitHub\MatchGame\bin\Debug\netcoreapp3.1\MatchGame.runtimeconfig.json
+D:\Repos\GitHub\MatchGame\bin\Debug\netcoreapp3.1\MatchGame.runtimeconfig.dev.json
+D:\Repos\GitHub\MatchGame\bin\Debug\netcoreapp3.1\MatchGame.dll
+D:\Repos\GitHub\MatchGame\bin\Debug\netcoreapp3.1\MatchGame.pdb
+D:\Repos\GitHub\MatchGame\obj\Debug\netcoreapp3.1\MatchGame.csproj.AssemblyReference.cache
+D:\Repos\GitHub\MatchGame\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Repos\GitHub\MatchGame\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Repos\GitHub\MatchGame\obj\Debug\netcoreapp3.1\MatchGame_MarkupCompile.cache
+D:\Repos\GitHub\MatchGame\obj\Debug\netcoreapp3.1\MatchGame_MarkupCompile.lref
+D:\Repos\GitHub\MatchGame\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Repos\GitHub\MatchGame\obj\Debug\netcoreapp3.1\MatchGame.g.resources
+D:\Repos\GitHub\MatchGame\obj\Debug\netcoreapp3.1\MatchGame.AssemblyInfoInputs.cache
+D:\Repos\GitHub\MatchGame\obj\Debug\netcoreapp3.1\MatchGame.AssemblyInfo.cs
+D:\Repos\GitHub\MatchGame\obj\Debug\netcoreapp3.1\MatchGame.csproj.CoreCompileInputs.cache
+D:\Repos\GitHub\MatchGame\obj\Debug\netcoreapp3.1\MatchGame.dll
+D:\Repos\GitHub\MatchGame\obj\Debug\netcoreapp3.1\MatchGame.pdb
+D:\Repos\GitHub\MatchGame\obj\Debug\netcoreapp3.1\MatchGame.genruntimeconfig.cache

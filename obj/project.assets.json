@@ -16,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repos\\Head First\\MatchGame\\MatchGame.csproj",
+      "projectUniqueName": "D:\\Repos\\GitHub\\MatchGame\\MatchGame.csproj",
       "projectName": "MatchGame",
-      "projectPath": "D:\\Repos\\Head First\\MatchGame\\MatchGame.csproj",
+      "projectPath": "D:\\Repos\\GitHub\\MatchGame\\MatchGame.csproj",
       "packagesPath": "C:\\Users\\JasonLarson\\.nuget\\packages\\",
-      "outputPath": "D:\\Repos\\Head First\\MatchGame\\obj\\",
+      "outputPath": "D:\\Repos\\GitHub\\MatchGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
